@@ -4,7 +4,7 @@ Berdasarkan tutorial bagus dari https://guides.codepath.com/android/Fragment-Nav
 
 Ada dua view, pertama Drawer menindih toolbar (activity_main.xml) dan yang kedua Drawer dibawah toolbar (activity_main2.xml), seperti gambar dibawah ini
 
-![image](/storage/emulated/0/Pictures/Screenshots/Screenshot_20161203-144506.png)
+![image](https://github.com/agusibrahim/BelajarMembuatDrawer/blob/master/art.png?raw=true)
 
 
 SELAMAT BELAJAR kaka 🙊
